@@ -1,9 +1,9 @@
-Install yasnippet via the Emacs package manager.
+Install [yasnippet](https://github.com/capitaomorte/yasnippet).
 
 Then:
 
 ```
-git clone http://github.com/swannodette/clojure-snippets ~/.emacs.d/snippets/clojure-mode
+git clone http://github.com/statonjr/clojure-snippets ~/.emacs.d/snippets/clojure-mode
 ```
 
 Or whatever location you prefer. Then In your `.emacs` you should have
